@@ -1,5 +1,5 @@
 //название файла: tictactoe.cpp
-//крестики-нолики версия 0.1.0 от proximacentav на github (https://github.com/proximacentav)
+//крестики-нолики версия 1.0.0 от proximacentav на github (https://github.com/proximacentav)
 
 #include <iostream>
 #include <cstdlib>
@@ -138,7 +138,7 @@ int main() {
             //проверка ничьей
             if (isFull()) {
                 printBoard();
-                cout << "it's a draw!" << endl;
+                cout << "it's a draw" << endl;
                 gameOver = true;
                 break;
             }
