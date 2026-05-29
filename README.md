@@ -10,4 +10,5 @@ A Linux terminal Tic-Tac-Toe game licensed under GPLv3.
 1.run 'tictactoe'
 
 2. play
+![tictactoe_screenshot](screenshot.png)
 # report bugs to issues page on github
