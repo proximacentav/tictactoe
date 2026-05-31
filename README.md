@@ -1,5 +1,10 @@
 # tictactoe
 A Linux terminal Tic-Tac-Toe game licensed under GPLv3.
+very simple game on C++
+# install compile:
+1. download tictactoe.cpp
+2. run "g++ tictactoe.cpp -o tictactoe"
+3. play ./tictactoe
 # install:
 1.go to the releases page
 
